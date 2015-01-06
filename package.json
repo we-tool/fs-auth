@@ -1,0 +1,23 @@
+{
+  "name": "fs-auth",
+  "version": "0.0.1",
+  "description": "Auth beyond filesystem",
+  "repository": "git@github.com:fritx/fs-auth.git",
+  "main": "fa.js",
+  "bin": {
+    "fa": "bin/fa.cli.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "glob": "^4.3.2",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {
+    "buffer-equal": "0.0.1",
+    "mocha": "^2.1.0"
+  },
+  "license": "MIT"
+}
