@@ -1,7 +1,14 @@
 {
   "name": "fs-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auth beyond filesystem",
+  "keywords": [
+    "fs",
+    "file",
+    "auth",
+    "crypto",
+    "encrypt"
+  ],
   "repository": "git@github.com:fritx/fs-auth.git",
   "main": "fa.js",
   "bin": {
